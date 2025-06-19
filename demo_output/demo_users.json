@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "total_users": 3,
+    "extracted_at": "2025-06-19T15:22:06.577538",
+    "format_version": "1.0"
+  },
+  "users": [
+    {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "role": "Admin",
+      "last_login": "2024-01-15",
+      "status": "Active",
+      "extracted_at": "2025-06-19T15:22:06.577538",
+      "source_saas": "Demo SaaS"
+    },
+    {
+      "email": "jane.smith@example.com",
+      "name": "Jane Smith",
+      "role": "User",
+      "last_login": "2024-01-14",
+      "status": "Active",
+      "extracted_at": "2025-06-19T15:22:06.577538",
+      "source_saas": "Demo SaaS"
+    },
+    {
+      "email": "bob.wilson@example.com",
+      "name": "Bob Wilson",
+      "role": "User",
+      "last_login": "2024-01-10",
+      "status": "Inactive",
+      "extracted_at": "2025-06-19T15:22:06.577538",
+      "source_saas": "Demo SaaS"
+    }
+  ]
+}

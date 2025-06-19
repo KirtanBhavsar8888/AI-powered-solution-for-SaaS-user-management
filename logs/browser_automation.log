@@ -1,0 +1,15 @@
+2025-06-19 15:21:56,873 - INFO - Browser initialized successfully
+2025-06-19 15:22:06,434 - INFO - Screenshot saved: ./logs//demo_test.png
+2025-06-19 15:22:06,575 - INFO - Browser cleanup completed
+2025-06-19 15:22:06,576 - INFO - Output directory ensured: ./demo_output/
+2025-06-19 15:22:06,577 - INFO - Processed 3 valid user records from Demo SaaS
+2025-06-19 15:22:06,578 - INFO - Saved 3 users to JSON: ./demo_output/demo_users.json
+2025-06-19 15:22:06,578 - INFO - Saved 3 users to CSV: ./demo_output/demo_users.csv
+2025-06-19 15:24:00,256 - INFO - Output directory ensured: ./scraped_data/
+2025-06-19 15:24:00,861 - INFO - Browser initialized successfully
+2025-06-19 15:24:00,866 - INFO - Starting user scraping workflow for Dropbox Business
+2025-06-19 15:24:00,867 - INFO - Attempting login to Dropbox Business
+2025-06-19 15:24:35,724 - ERROR - Login error for Dropbox Business: Timeout 30000ms exceeded.
+2025-06-19 15:24:38,242 - INFO - Screenshot saved: ./logs//login_error.png
+2025-06-19 15:24:38,243 - ERROR - Login failed for Dropbox Business
+2025-06-19 15:24:45,160 - INFO - Browser cleanup completed

@@ -1,0 +1,4 @@
+email,name,role,last_login,status,extracted_at,source_saas
+john.doe@example.com,John Doe,Admin,2024-01-15,Active,2025-06-19T15:22:06.577538,Demo SaaS
+jane.smith@example.com,Jane Smith,User,2024-01-14,Active,2025-06-19T15:22:06.577538,Demo SaaS
+bob.wilson@example.com,Bob Wilson,User,2024-01-10,Inactive,2025-06-19T15:22:06.577538,Demo SaaS
